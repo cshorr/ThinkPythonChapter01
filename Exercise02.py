@@ -17,10 +17,10 @@ print(+2)
 # The result is a positive 2
 print(2++2)
 # The result is unexpectedly 4 and not an error
-print(4 2)
+print(4 * 2)
 # "SyntaxError: invalid syntax. Perhaps you forgot a comma?"
-print(round(42.5)
+print(round (42.5))
 # SyntaxError: '(' was never closed
-print(round 42.5)
+print(round (42.5))
 # Same as print(4 2), weird! Why?
 # SyntaxError: invalid syntax. Perhaps you forgot a comma?
